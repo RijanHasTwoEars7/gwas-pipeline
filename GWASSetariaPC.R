@@ -52,6 +52,7 @@ index2 = as.numeric(args[3])
 #                            "gC.m2",
 #                            "leaf.area",
 #                            "leaf.weight",
+
 #                            "spec.leaf.area",
 #                            "stom.density")
 # allSingleTraits <- unique(grep(paste(single.measure.traits,collapse="|"), colnames(phenotype), value=TRUE))
